@@ -1,0 +1,54 @@
+2021-03-18T10:11:50.673+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:11:50.695+0700 INFO Order created successfully for username: user
+2021-03-18T10:12:09.133+0700 INFO User name set with 
+2021-03-18T10:12:09.140+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:12:09.157+0700 INFO Received get request for id: 0
+2021-03-18T10:12:09.162+0700 INFO User name set with 
+2021-03-18T10:12:09.163+0700 INFO User created. UserName: test
+2021-03-18T10:12:09.164+0700 INFO User name set with 
+2021-03-18T10:12:09.165+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:12:19.247+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:12:19.285+0700 INFO Order created successfully for username: user
+2021-03-18T10:12:27.279+0700 INFO User name set with 
+2021-03-18T10:12:27.285+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:12:27.302+0700 INFO Received get request for id: 0
+2021-03-18T10:12:27.309+0700 INFO User name set with 
+2021-03-18T10:12:27.309+0700 INFO User created. UserName: test
+2021-03-18T10:12:27.310+0700 INFO User name set with 
+2021-03-18T10:12:27.311+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:12:38.503+0700 INFO Starting SareetaApplication on VY with PID 9208 (D:\Working-New\Lab-for-fun\nano-degree-java-web-dev\nd035-c4-Security-and-DevOps\starter_code\target\classes started by Admin in D:\Working-New\Lab-for-fun\nano-degree-java-web-dev\nd035-c4-Security-and-DevOps\starter_code)
+2021-03-18T10:12:38.510+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T10:12:38.511+0700 INFO No active profile set, falling back to default profiles: default
+2021-03-18T10:12:43.245+0700 INFO Started SareetaApplication in 5.076 seconds (JVM running for 6.224)
+2021-03-18T10:12:50.889+0700 INFO User name set with 
+2021-03-18T10:12:51.039+0700 INFO User created. UserName: test
+2021-03-18T10:12:53.234+0700 INFO User name set with 
+2021-03-18T10:13:40.922+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:13:40.943+0700 INFO Order created successfully for username: user
+2021-03-18T10:13:50.588+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:13:50.614+0700 INFO Order created successfully for username: user
+2021-03-18T10:13:57.112+0700 INFO User name set with 
+2021-03-18T10:13:57.118+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:13:57.134+0700 INFO Received get request for id: 0
+2021-03-18T10:13:57.139+0700 INFO User name set with 
+2021-03-18T10:13:57.139+0700 INFO User created. UserName: test
+2021-03-18T10:13:57.141+0700 INFO User name set with 
+2021-03-18T10:13:57.141+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:14:03.604+0700 INFO User name set with 
+2021-03-18T10:14:03.611+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:14:03.628+0700 INFO Received get request for id: 0
+2021-03-18T10:14:03.633+0700 INFO User name set with 
+2021-03-18T10:14:03.633+0700 INFO User created. UserName: test
+2021-03-18T10:14:03.635+0700 INFO User name set with 
+2021-03-18T10:14:03.635+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:14:08.792+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:14:08.823+0700 INFO Order created successfully for username: user
+2021-03-18T10:14:16.276+0700 ERROR Order could not be created for username: iamnotuser
+2021-03-18T10:14:16.303+0700 INFO Order created successfully for username: user
+2021-03-18T10:14:22.145+0700 INFO User name set with 
+2021-03-18T10:14:22.151+0700 ERROR Error with user password. Cannot create usertest
+2021-03-18T10:14:22.166+0700 INFO Received get request for id: 0
+2021-03-18T10:14:22.171+0700 INFO User name set with 
+2021-03-18T10:14:22.172+0700 INFO User created. UserName: test
+2021-03-18T10:14:22.173+0700 INFO User name set with 
+2021-03-18T10:14:22.173+0700 ERROR Error with user password. Cannot create usertest
